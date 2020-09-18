@@ -1,10 +1,9 @@
 ---
-title: Website Development
-summary: Developed a website of restaurant for its online orders and tracking sales for
-the graduate course using HTML, CSS, PHP and MySQL.
-tags: 
+title: Office hours Schedule
+summary: Created Office hours schedule using Threads, Deadlocks and Starvation.
+tags:
 - Java
-date: "2020-01-2T00:00:00Z"
+date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,6 +27,6 @@ external_link: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+slides: example
 ---
-
-Developed a website of restaurant for its online orders and tracking sales for the graduate course using HTML, CSS, PHP and MySQL.
+Created Office hours schedule using Threads, Deadlocks and Starvation
