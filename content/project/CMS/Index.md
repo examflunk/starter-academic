@@ -4,7 +4,6 @@ summary: Developed a website of restaurant for its online orders and tracking sa
 the graduate course using HTML, CSS, PHP and MySQL.
 tags:
 - PHP
--HTML
 date: "2020-01-2T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
