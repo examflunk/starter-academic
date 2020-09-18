@@ -18,31 +18,26 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
   
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "100%"  
   
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "HTML"
-  description = "90%"
 
 [[feature]]
   icon = "css3"
   icon_pack = "fab"
   name = "CSS"
-  description = "90%"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Database"
-  description = "90%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
