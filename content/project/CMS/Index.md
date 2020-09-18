@@ -3,7 +3,8 @@ title: Website Development
 summary: Developed a website of restaurant for its online orders and tracking sales for
 the graduate course using HTML, CSS, PHP and MySQL.
 tags:
-- PHP, HTML, CSS, Sqlite, Javascript
+- PHP
+-HTML
 date: "2020-01-2T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
