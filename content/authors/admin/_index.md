@@ -24,7 +24,7 @@ interests:
 - Automation
 - Data Visualization
 - Machine Learning 
-- Data Analysis.
+- Data Analysis
 
 education:
   courses:
@@ -36,7 +36,7 @@ education:
     year: 2012-2016
   - course: Pre-University with Physics, Chemistry, Mathematics
     institution: Sri Chaitanya College
-    year: 208-2012
+    year: 2010-2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,5 +66,5 @@ user_groups:
 - Visitors
 ---
 
-I am currently pursuing my masters in Computer Science from University of
-Texas Arlington. My career interests are Data Analyst and Business Analyst
+I am currently pursuing my Masters in Computer Science from University of
+Texas Arlington. My career interests are Data Analyst and Business Analyst.
