@@ -59,8 +59,7 @@ subtitle = ""
   name = "Eclipse"
 
  [[feature]]
-  icon = "automation"
+  icon = "vscode"
   icon_pack = "custom"
-  name = "Automation"
-  description = "90%"
+  name = "Visual Studio"
 +++
