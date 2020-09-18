@@ -48,11 +48,11 @@ subtitle = ""
   name = "ETL"
   description = "90%"
 
-[[feature]]
-  icon = "intelij"
-  icon_pack = "custom"
-  name = "Intelij"
-  description = "90%"
+#[[feature]]
+#  icon = "intelij"
+#  icon_pack = "custom"
+#  name = "Intelij"
+#  description = "90%"
 
  [[feature]]
   icon = "eclipse"
@@ -60,10 +60,9 @@ subtitle = ""
   name = "Eclipse"
   description = "90%"
 
-
- [[feature]]
-  icon = "automation"
-  icon_pack = "custom"
-  name = "Automation"
-  description = "90%"
+# [[feature]]
+#  icon = "automation"
+#  icon_pack = "custom"
+#  name = "Automation"
+#  description = "90%"
 +++
