@@ -25,13 +25,37 @@ subtitle = ""
      name = "All"
      tag = "*"
   
-   [[content.filter_button]]
-     name = "Acadamic Projects"
-     tag = "Deep Learning"
+   # [[content.filter_button]]
+    # name = "Acadamic Projects"
+    # tag = "Deep Learning"
   
-   [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+   # [[content.filter_button]]
+   #  name = "Other"
+   #  tag = "Demo"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[projects]]
+  title = "Used Car Price Prediction"
+  date_start = "2020-06-01"
+  date_end = "2020-08-020"
+  description = """This project is regarding building a model to predict used car prices for my graduate course. We took the dataset from kaggle and worked on it to build a effective model for predicting the prices."""
+  
+  [[projects]]
+  title = "Website Development"
+  date_start = "2020-01-18"
+  date_end = "2020-04-020"
+  description = """Developed a food Ordereing website of restaurant for its online orders and tracking sales for
+the graduate course using HTML, CSS, PHP and MySQL"""
+  
+  [[projects]]
+  title = "Fire Fighting Robot"
+  date_start = "2020-01-10"
+  date_end = "2020-05-25"
+  description = """Built the prototype of the robot for my undergraduate course using PIC Microcontroller, Sensors, DC Motors and Drivers."""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
