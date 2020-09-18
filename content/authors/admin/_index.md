@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tirumal Manukonda
+title: Tirumala Manukonda
 
 # Username (this should match the folder name)
 authors:
@@ -51,7 +51,7 @@ social:
   link: https://m.facebook.com/tirumal.reddy.397
 - icon: github
   icon_pack: fab
-  link: https://github.com/examflunk/starter-academic.git
+  link: https://github.com/tiru1056
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
