@@ -23,26 +23,26 @@ subtitle = ""
 [[feature]]
   icon = "java"
   icon_pack = "fab"
-  name = "Statistics"
+  name = "Java"
   description = "100%"  
   
 [[feature]]
   icon = "html5"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "HTML"
-  description = "10%"
+  description = "90%"
 
 [[feature]]
   icon = "css3"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "CSS"
-  description = "10%"
+  description = "90%"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Database"
-  description = "10%"
+  description = "90%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
