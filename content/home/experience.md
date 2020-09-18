@@ -21,13 +21,14 @@ date_format = "Jan 2006"
   title = "System Analyst"
   company = "Tata Consultany Service"
   location = "Hyderabad, India"
-  date_start = "2017-07-01"
+  date_start = "2016-07-01"
   date_end = "2020-01-10"
   description = """Handled different roles like ETL Developer, Automation and Functional Tester.
   Responsibilities include:
  
   * Functional Testing
   * Automation
+  * Risk Analysis
   """
 
 +++
