@@ -63,12 +63,7 @@ subtitle = ""
   icon_pack = "custom"
   name = "Visual Studio"
   
-   [[feature]]
-  icon = "etl1"
-  icon_pack = "custom"
-  name = "ETL"
-  
-   [[feature]]
+ [[feature]]
   icon = "selenium"
   icon_pack = "custom"
   name = "Selenium"
