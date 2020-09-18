@@ -1,9 +1,9 @@
 ---
-title: Office hours Schedule
-summary: Created Office hours schedule using Threads, Deadlocks and Starvation.
+title: Website Development
+summary: Developed a website of restaurant for its online orders and tracking sales for the graduate course using HTML, CSS, PHP and MySQL.
 tags:
 - Java
-date: "2016-04-27T00:00:00Z"
+date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,4 +29,5 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Created Office hours schedule using Threads, Deadlocks and Starvation
+Developed a website of restaurant for its online orders and tracking sales for
+the graduate course using HTML, CSS, PHP and MySQL.
