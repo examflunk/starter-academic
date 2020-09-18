@@ -5,9 +5,6 @@ tags:
 - Java
 date: "2020-04-27"
 
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
