@@ -32,3 +32,9 @@
   name = "Contact"
   url = "#contact"
   weight = 70
+
+
+[[main]]
+  name = "Assignment"
+  url = "#assignment"
+  weight = 70
