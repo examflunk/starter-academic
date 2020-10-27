@@ -36,5 +36,5 @@
 
 [[main]]
   name = "Assignment"
-  url = "files/Manukonda_01.txt"
+  url = "files/Manukonda_01.ipynb"
   weight = 70
