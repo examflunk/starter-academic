@@ -5,7 +5,6 @@ summary: This project is regarding building a model to predict used car prices f
 tags:
 - Data Structures 
 date: "2020-04-27T00:00:00Z"
-
 # Optional external URL for project (replaces project detail page).
    external_link: "files/Manukonda_01.html"
 
