@@ -8,7 +8,7 @@ date: "2020-01-27T00:00:00Z"
 
 
 # Optional external URL for project (replaces project detail page).
-url: "tirumalreddy.netlify.app/files/Manukonda_01.html"
+external url: "https:tirumalreddy.netlify.app/files/Manukonda_01.html"
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
