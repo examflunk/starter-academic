@@ -10,7 +10,7 @@ date: "2020-01-27T00:00:00Z"
 
 
 # Optional external URL for project (replaces project detail page).
-external_url: "https://tirumalreddy.netlify.app/files/manukonda_01"
+external_url: "https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download"
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
