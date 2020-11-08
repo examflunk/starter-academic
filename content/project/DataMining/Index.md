@@ -19,4 +19,4 @@ Find the optimal parameters using development data set and plot them using barch
 Analyse the graph and get optimal hyperparameters, and from the hyperparameters getting the Final accuracy of test-set
 
 
-{{% staticref "files/Manukonda_01.ipynb" %}}View my Project{{% /staticref %}}
+{{% staticref "files/Manukonda_01.ipynb" "newtab" %}}View my Project{{% /staticref %}}
