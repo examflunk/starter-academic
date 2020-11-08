@@ -17,4 +17,6 @@ This assignment is about implementation of KNN algorithm with the hyper paramete
 Split the data of IRIS into development and test set
 Find the optimal parameters using development data set and plot them using barchart for the given hyperparameters
 Analyse the graph and get optimal hyperparameters, and from the hyperparameters getting the Final accuracy of test-set
+
+
 {{% staticref "files/Manukonda_01.ipynb" %}}Download my Project{{% /staticref %}}
