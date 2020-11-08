@@ -8,6 +8,8 @@ date: "2020-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download"
 
+[DownloadLink](https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download)
+
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
