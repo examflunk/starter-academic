@@ -36,9 +36,9 @@
 [[main]]
   name = "Assignment"
   url = "#Assignment"
-  weight = 70
+  weight = 30
   
 [[main]]
-  name = "Assignment"
+  name = "File"
   url = "files/Manukonda_01.html"
   weight = 70
