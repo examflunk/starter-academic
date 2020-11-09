@@ -33,7 +33,11 @@
   url = "#contact"
   weight = 70
 
-
+[[main]]
+  name = "Assignment"
+  url = "#Assignment"
+  weight = 70
+  
 [[main]]
   name = "Assignment"
   url = "files/Manukonda_01.html"
