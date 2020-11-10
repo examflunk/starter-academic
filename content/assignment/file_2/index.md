@@ -9,7 +9,7 @@ links:
     url: 'https://drive.google.com/file/d/1Fb0Hpwq2D4EaIGlKhfEe9fPgSlKu_ywi/view?usp=sharing/'
     
 tags:
-- Data Structures 
+- Algorithm 
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
