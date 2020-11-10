@@ -11,12 +11,6 @@ external_link: ""
 
 # {{% staticref "https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download" "newtab" %}}View my Project{{% /staticref %}}
 
-cta:
-  url: 'https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download'
-  label: Download
-  icon_pack: fas
-  icon: download
-  
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
