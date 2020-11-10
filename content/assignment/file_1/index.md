@@ -19,7 +19,4 @@ The goal of this assignment is to learn about the concept of overfitting using t
 
 {{% staticref "files/Manukonda_01.html" "newtab" %}}View my Project{{% /staticref %}}
 
----
-title: "Custom URL!"
 url: "https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download"
----
