@@ -5,7 +5,7 @@ summary: This assignment is about implementation of KNN algorithm with the hyper
 links:
   - icon_pack: fab
     icon: fa-download
-    name: Download
+    name: Download .ipynb
     url: 'https://drive.google.com/file/d/1Fb0Hpwq2D4EaIGlKhfEe9fPgSlKu_ywi/view?usp=sharing/'
     
 tags:
