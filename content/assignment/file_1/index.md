@@ -1,5 +1,5 @@
 ---
-title: Assignement 1
+title: Assignment 1
 summary: The goal of this assignment is to learn about the concept of overfitting using the Polynomial regression. Using the polynomial regression of orders 0,1,3,9. Observe Train and test errors to find whether is its overfitting or not. Similarly with the regularized weight function, observe the training and testing errors and check the performance of model to find if its overfitting.
 
 tags:
