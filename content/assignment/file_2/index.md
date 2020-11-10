@@ -21,8 +21,14 @@ image:
 ---
 This assignment is about implementation of KNN algorithm with the hyper parameters K values =1,3,5,7 and distance metrics = euclidean distance , euclidean distance and cosine distance.  Train with training dataset and then get the optimal hyperparameters using the predict of the model on Development dataset. Finally get accuracy of the model on the testing data set.
 
-Analysis.
+Analysis:-
 
-Of all the given values of M, I would say M=3 degree would give best test perfomance as it is not overfitting or underfitting the training curve and Its performing better than other values of M.
+- KMetrics :- optimal value of k would be = 5, From the above barchart, we can understand that my model more consistent  from k=3 and there shouldn't be any overfit with small k values and underfit with higher values of k, i will consider k=5 as the optimal parameter.
+
+ - Distance Metric:- Cosine distance measure would be optimal, As we seen from the graph cosine metrics gave me better and   consistent values compared to the euclidean and normalized euclidean distance..
+
+- Optimal Hyper parameters are k=5, and Cosine Distance
+
+-  Final test accuracy for the test data is 96.66666666666667%, which says that our performence is consistent on test data as it   gave me same accuracy of developement data set for the optimal parameters of developementset
 
 {{% staticref "files/Manukonda_02.html" "newtab" %}}View my Project{{% /staticref %}}
