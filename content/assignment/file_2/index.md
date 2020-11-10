@@ -21,4 +21,8 @@ image:
 ---
 This assignment is about implementation of KNN algorithm with the hyper parameters K values =1,3,5,7 and distance metrics = euclidean distance , euclidean distance and cosine distance.  Train with training dataset and then get the optimal hyperparameters using the predict of the model on Development dataset. Finally get accuracy of the model on the testing data set.
 
+Analysis.
+
+Of all the given values of M, I would say M=3 degree would give best test perfomance as it is not overfitting or underfitting the training curve and Its performing better than other values of M.
+
 {{% staticref "files/Manukonda_02.html" "newtab" %}}View my Project{{% /staticref %}}
