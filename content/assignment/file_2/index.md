@@ -14,3 +14,5 @@ image:
   focal_point: Smart
 ---
 This assignment is about implementation of KNN algorithm with the hyper parameters K values =1,3,5,7 and distance metrics = euclidean distance , euclidean distance and cosine distance.  Train with training dataset and then get the optimal hyperparameters using the predict of the model on Development dataset. Finally get accuracy of the model on the testing data set.
+
+{{% staticref "files/Manukonda_02.html" "newtab" %}}View my Project{{% /staticref %}}
