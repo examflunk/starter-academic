@@ -13,7 +13,12 @@ external_link: "https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHS
 
 # [I'm a link](https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download)
 
-baseurl= "https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download"
+# baseurl= "https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download"
+
+---
+title: "Custom URL!"
+url: "https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download"
+---
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
