@@ -13,8 +13,6 @@ external_link: ""
 
 # [I'm a link](https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download)
 
-{{< icon name="terminal" pack="fas" >}} Terminal 
-
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
