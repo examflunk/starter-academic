@@ -4,11 +4,11 @@ summary: The goal of this assignment is to learn about the concept of overfittin
 
 # baseurl = "https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download/"
 
-[cta]
-  url = "https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+links:
+  - icon_pack: fab
+    icon: fa-download
+    name: Download
+    url: 'https://drive.google.com/u/0/uc?id=1v2ihSz4STkNPONBWEjuF2yKtELHSAyAu&export=download/'
   
 tags:
 - Data Structures 
