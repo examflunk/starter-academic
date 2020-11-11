@@ -25,4 +25,4 @@ Analysis:-
 
 Of all the given values of M, I would say M=3 degree would give best test perfomance as it is not overfitting or underfitting the training curve and Its performing better than other values of M
 
-{{% staticref "files/Manukonda_01.html" "newtab" %}}View my Project{{% /staticref %}}
+{{% staticref "files/Manukonda_01.html" "newtab" %}}View my pynb{{% /staticref %}}
