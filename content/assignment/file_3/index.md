@@ -6,7 +6,7 @@ links:
   - icon_pack: fab
     icon: fa-download
     name: Download .ipynb
-    url: 'https://drive.google.com/file/d/1ZCj-0HP8OqDMbSwxeemEN8-dvOxhNi0Z/view?usp=sharing'
+    url: 'https://drive.google.com/u/1/uc?id=1ZCj-0HP8OqDMbSwxeemEN8-dvOxhNi0Z&export=download'
     
 tags:
 - Algorithm 
