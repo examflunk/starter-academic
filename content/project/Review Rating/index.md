@@ -2,12 +2,7 @@
 title: Board Game Rating Prediction system
 summary: The goal of the project is building a classifier that predicts ratings for the reviews using the boardgame review dataset.This includes developing a prefect model that predicts well and building a live demo website, where it demonstrates the behavior of the prediction system in real time.
 
-links:
-  - icon_pack: fab
-    icon: fa-download
-    name: Download .ipynb
-    url: 'https://drive.google.com/u/1/uc?id=1UiGsIkFsXhdKItsIDr9jwJLuSHyg4dGn&export=download'
-    
+
 links:
   - icon_pack: fab
     icon: fa-download
@@ -19,7 +14,8 @@ links:
     icon: fa-download
     name: Demo
     url: 'https://youtu.be/Aa2DlJsPXmg'
-    
+
+{{< video library="true" src="Data_Minning_Project.mp4" controls="yes" >}}
     
 tags:
 - Algorithm Python
@@ -153,4 +149,4 @@ XGBoost classifier builds an additive model in a forward stage-wise fashion, it 
 
 {{< youtube Aa2DlJsPXmg >}}
 
-{{< video library="true" src="Data_Minning_Project.mp4" controls="yes" >}}
+[Link To Site](https://ratingspredictor.herokuapp.com/)
