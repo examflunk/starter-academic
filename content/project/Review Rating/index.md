@@ -1,11 +1,6 @@
 ---
 title: Board Game Rating Prediction system
 summary: The goal of the project is building a classifier that predicts ratings for the reviews using the boardgame review dataset
-
-external_link: "https://ratingspredictor.herokuapp.com/"
-
-external_link: "https://youtu.be/Aa2DlJsPXmg"
-
 links:
   - icon_pack: fab
     icon: fa-download
@@ -17,7 +12,9 @@ tags:
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://ratingspredictor.herokuapp.com/"
+
+external_link: "https://youtu.be/Aa2DlJsPXmg"
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
