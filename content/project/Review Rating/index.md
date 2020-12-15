@@ -34,8 +34,6 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
-external_link: "https://ratingspredictor.herokuapp.com/"
-
 The goal of the project is building a classifier that predicts ratings for the reviews using the boardgame review dataset
 
 The implementation of the project is as follows
