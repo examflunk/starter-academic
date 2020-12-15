@@ -14,8 +14,6 @@ links:
     icon: fa-download
     name: Demo
     url: 'https://youtu.be/Aa2DlJsPXmg'
-
-{{< video library="true" src="Data_Minning_Project.mp4" controls="yes" >}}
     
 tags:
 - Algorithm Python
@@ -30,7 +28,10 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
+
 The goal of the project is building a classifier that predicts ratings for the reviews using the boardgame review dataset
+
+{{< video library="true" src="Data_Minning_Project.mp4" controls="yes" >}}
 
 The implementation of the project is as follows
 - Dataset analysis
