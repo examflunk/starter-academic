@@ -4,6 +4,24 @@ summary:  The goal of the project is building a classifier that predicts ratings
 
 external_link: "https://ratingspredictor.herokuapp.com/"
 
+links:
+  - icon_pack: fab
+    icon: fa-download
+    name: Download .ipynb
+    url: 'https://drive.google.com/u/1/uc?id=1UiGsIkFsXhdKItsIDr9jwJLuSHyg4dGn&export=download'
+    
+tags:
+- Algorithm Python
+date: "2020-04-27T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Photo by Toa Heftiba on Unsplash
+  focal_point: Smart
+---
+The goal of the project is building a classifier that predicts ratings for the reviews using the boardgame review dataset
 The implementation of the project is as follows
 - Dataset analysis
 - Text Preprocessing
@@ -114,24 +132,5 @@ XGBoost classifier builds an additive model in a forward stage-wise fashion, it 
    it is looks like overfitting as training has very good accuracy and test it has dropped veryless
   
   - Hyperparamter is verified using XGBoost model.
-
-links:
-  - icon_pack: fab
-    icon: fa-download
-    name: Download .ipynb
-    url: 'https://drive.google.com/u/1/uc?id=1UiGsIkFsXhdKItsIDr9jwJLuSHyg4dGn&export=download'
-    
-tags:
-- Algorithm Python
-date: "2020-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
----
-The goal of the project is building a classifier that predicts ratings for the reviews using the boardgame review dataset
-
+  
 {{% staticref "files/Manukonda_03.html" "newtab" %}}View my pynb{{% /staticref %}}
