@@ -34,6 +34,8 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
+external_link: "https://ratingspredictor.herokuapp.com/"
+
 The goal of the project is building a classifier that predicts ratings for the reviews using the boardgame review dataset
 
 The implementation of the project is as follows
@@ -148,4 +150,3 @@ XGBoost classifier builds an additive model in a forward stage-wise fashion, it 
   - Hyperparamter is verified using XGBoost model.
   
 {{% staticref "files/Manukonda_04.html" "newtab" %}}View my pynb{{% /staticref %}}
-{{% staticref "files/Data Minning Project Recording.mp4" "newtab" %}}View Demo{{% /staticref %}}
