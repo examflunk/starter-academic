@@ -149,8 +149,8 @@ XGBoost classifier builds an additive model in a forward stage-wise fashion, it 
   
 {{% staticref "files/Manukonda_05.html" "newtab" %}}View my pynb{{% /staticref %}}
 
-links:
-  - icon_pack: fab
-    icon: fa-download
-    name: Go To Project site
-    url: 'https://ratingspredictor.herokuapp.com/'
+{{% staticref "files/Manukonda_05.ipynb" "newtab" %}}Download my ipynb{{% /staticref %}}
+
+{{< youtube Aa2DlJsPXmg >}}
+
+{{< video library="true" src="Data_Minning_Project.mp4" controls="yes" >}}
