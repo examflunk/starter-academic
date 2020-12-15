@@ -131,6 +131,5 @@ image:
   focal_point: Smart
 ---
 The goal of the project is building a classifier that predicts ratings for the reviews using the boardgame review dataset
- 
 
 {{% staticref "files/Manukonda_03.html" "newtab" %}}View my pynb{{% /staticref %}}
