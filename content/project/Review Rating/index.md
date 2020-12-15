@@ -1,22 +1,9 @@
 ---
 title: Board Game Rating Prediction system
 summary: The goal of the project is building a classifier that predicts ratings for the reviews using the boardgame review dataset.This includes developing a prefect model that predicts well and building a live demo website, where it demonstrates the behavior of the prediction system in real time.
-
-
-links:
-  - icon_pack: fab
-    icon: fa-download
-    name: Go To Project site
-    url: 'https://ratingspredictor.herokuapp.com/'
-    
-links:
-  - icon_pack: fab
-    icon: fa-download
-    name: Demo
-    url: 'https://youtu.be/Aa2DlJsPXmg'
     
 tags:
-- Algorithm Python
+- Algorithm  Python
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
