@@ -1,9 +1,8 @@
 ---
-title: Assignment 3
+title: Board Game Review Rating
 summary:  The goal of the project is building a classifier that predicts ratings for the reviews using the boardgame review dataset
 
 The implementation of the project is as follows
-
 - Dataset analysis
 - Text Preprocessing
 - Vocab and frequency list
