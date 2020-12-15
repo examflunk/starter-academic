@@ -16,7 +16,7 @@ external_link: ""
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/georgecushen
+#  url: https://twitter.com/
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
