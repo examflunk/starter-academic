@@ -2,6 +2,8 @@
 title: Board Game Review Rating
 summary:  The goal of the project is building a classifier that predicts ratings for the reviews using the boardgame review dataset
 
+external_link: "https://ratingspredictor.herokuapp.com/"
+
 The implementation of the project is as follows
 - Dataset analysis
 - Text Preprocessing
