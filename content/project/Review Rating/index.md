@@ -147,4 +147,4 @@ XGBoost classifier builds an additive model in a forward stage-wise fashion, it 
   
   - Hyperparamter is verified using XGBoost model.
   
-{{% staticref "files/Manukonda_04.html" "newtab" %}}View my pynb{{% /staticref %}}
+{{% staticref "files/Manukonda_05.html" "newtab" %}}View my pynb{{% /staticref %}}
